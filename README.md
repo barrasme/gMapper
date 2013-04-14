@@ -60,4 +60,4 @@ $('div#gmapper').gMapper();
 
 $('div#anotherMap').gMapper();								
 						
-And now both elements will be gMapper.
+And now both elements will be replaced with a map.
